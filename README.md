@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshashaik2407&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshashaik2407" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayeshashaik2407" alt="ayeshashaik2407" /></a> </p>
-
 - 🔭 I’m currently working on [Movie-Z](https://github.com/ayeshashaik2407/Movie-Z.git)
 
 - 🌱 I’m currently learning **Cloud,Spring Boot,Enterprise Programming**
