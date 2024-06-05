@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Movie-Z](https://github.com/ayeshashaik2407/Movie-Z.git)
 
-- 🌱 I’m currently learning **Cloud,Spring Boot,Enterprise Programming**
+- 🌱 I’m currently learning **Cloud,Enterprise Programming**
 
 - 👯 I’m looking to collaborate on **SaaS Applications**
 
