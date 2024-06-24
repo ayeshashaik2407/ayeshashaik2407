@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **SaaS Applications**
 
-- 👨‍💻 All of my projects are available at [ayshu.netlify.app](ayshu.netlify.app)
+- 👨‍💻 All of my projects are available at [ayshu.netlify.app](https://ayshu.netlify.app)
 
 - 💬 Ask me about **IoT, Sensor Formatting, Java , Python**
 
